@@ -4,7 +4,7 @@
 * Copyright: 2021, Madarász Dávid
 * Group: Szoft V
 * Date: 2021-09-03
-* Github: https://github.com/afriyy/
+* Github: https://github.com/afriyy
 * Licenc: GNU GPL
 */
 public class App {
